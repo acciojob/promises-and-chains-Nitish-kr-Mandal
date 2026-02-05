@@ -9,7 +9,7 @@
 
       // Validation
       if (age === "" || name === "") {
-        alert("Please enter valid details.");
+        alert("Please enter valid details");
         return;
       }
 
